@@ -1,4 +1,5 @@
-#! /usr/bin/python3
+#! C:\Users\alumno24\AppData\Local\Microsoft\WindowsApps\python.exe
+
 
 
 def doblar(algo):

@@ -1,4 +1,5 @@
-#! /usr/bin/python3
+#! C:\Users\alumno24\AppData\Local\Microsoft\WindowsApps\python.exe
+
 
 __objeto = [11, 22, 33]  # objeto y estado global
              # lo alcanza todo el codigo 
